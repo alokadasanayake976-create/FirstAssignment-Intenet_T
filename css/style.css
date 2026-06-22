@@ -1,0 +1,16 @@
+body{
+    background-color:wheat;
+}
+.h1-main{
+    text-align: center;
+    color: chartreuse;
+    font-family: calibri;
+}
+.h1-tags{
+    color: chartreuse;
+    font-family: calibri;
+    text-align: center;
+}
+#body-tags{
+      background-color: black;
+}
