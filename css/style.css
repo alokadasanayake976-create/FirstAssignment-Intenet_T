@@ -1,5 +1,5 @@
 body{
-    background-color:wheat;
+    background-color:black;
 }
 .h1-main{
     text-align: center;
@@ -13,4 +13,21 @@ body{
 }
 #body-tags{
       background-color: black;
+}
+summary{
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display:flex;
+    gap:20px;
+    align-items:center;
+}
+.p1{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+h2{
+    color: wheat;
 }
