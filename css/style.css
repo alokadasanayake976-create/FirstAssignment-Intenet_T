@@ -3,6 +3,10 @@ body{
      margin: 0;
   padding: 60px 50px;
 }
+.body2{
+    color: wheat;
+
+}
 .h1-main{
     text-align: center;
     color: chartreuse;
